@@ -1,3 +1,4 @@
 .env
-WSN
 .vscode
+.venv
+code
